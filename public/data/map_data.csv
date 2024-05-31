@@ -1,0 +1,200 @@
+ISO,country,equality,legal
+ISL,Iceland,90,94
+CAN,Canada,90,100
+IMN,Isle of Man,88,88
+URY,Uruguay,87,100
+NOR,Norway,86,90
+AND,Andorra,85,97
+NLD,Netherlands,85,96
+DEU,Germany,84,98
+GBR,United Kingdom,84,92
+AUS,Australia,84,94
+CHE,Switzerland,83,98
+VUT,Vanuatu,83,83
+ARG,Argentina,82,97
+MLT,Malta,82,98
+NZL,New Zealand,81,95
+USA,United States of America,81,96
+SMR,San Marino,81,92
+SWE,Sweden,81,86
+BRA,Brazil,81,98
+ESP,Spain,80,90
+FJI,Fiji,80,80
+LIE,Liechtenstein,80,91
+DNK,Denmark,79,85
+LUX,Luxembourg,78,94
+BLZ,Belize,78,78
+ZAF,South Africa,78,97
+FRA,France,78,93
+CHL,Chile,77,95
+FIN,Finland,77,91
+BEL,Belgium,77,87
+MEX,Mexico,77,97
+CUB,Cuba,75,78
+ISR,Israel,74,97
+AUT,Austria,73,90
+PRT,Portugal,73,96
+IRL,Ireland,72,85
+CZE,Czech Republic,72,85
+SUR,Suriname,72,72
+CRI,Costa Rica,72,92
+MCO,Monaco,71,71
+,Vatican City,71,71
+CPV,Cape Verde,69,61
+WSM,Samoa,69,69
+PLW,Palau,68,68
+SYC,Seychelles,68,68
+SVN,Slovenia,68,87
+NPL,Nepal,68,83
+COL,Colombia,68,88
+ECU,Ecuador,67,95
+MHL,Marshall Islands,66,66
+JPN,Japan,65,75
+ITA,Italy,65,76
+GNQ,Equatorial Guinea,64,64
+IND,India,64,81
+AGO,Angola,63,79
+MOZ,Mozambique,62,69
+MUS,Mauritius,62,71
+GRC,Greece,62,86
+LAO,Laos,61,61
+GNB,Guinea-Bissau,60,60
+TWN,Taiwan,60,73
+BOL,Bolivia,60,82
+,Kosovo,59,59
+CYP,Cyprus,59,85
+TJK,Tajikistan,59,59
+NAM,Namibia,58,62
+NRU,Nauru,58,58
+HRV,Croatia,58,83
+NIC,Nicaragua,58,77
+EST,Estonia,58,80
+FSM,Federated States of Micronesia,58,58
+PER,Peru,57,77
+BTN,Bhutan,57,57
+VEN,Venezuela,57,68
+BWA,Botswana,56,75
+BHS,Bahamas,56,56
+UZB,Uzbekistan,55,55
+SLV,El Salvador,54,76
+SVK,Slovakia,54,70
+PHL,Philippines,54,54
+GTM,Guatemala,54,76
+TLS,Timor-Leste,53,53
+BGR,Bulgaria,52,79
+HND,Honduras,52,75
+VNM,Vietnam,52,66
+HUN,Hungary,52,64
+COD,Democratic Republic of the Congo,52,52
+STP,Sao Tome and Principe,51,60
+THA,Thailand,51,63
+LTU,Lithuania,50,73
+MNE,Montenegro,49,83
+LVA,Latvia,49,71
+ROU,Romania,49,72
+POL,Poland,48,56
+SRB,Serbia,47,76
+KOR,South Korea,47,58
+BHR,Bahrain,47,52
+TON,Tonga,47,47
+PAN,Panama,46,58
+KIR,Kiribati,46,46
+BIH,Bosnia and Herzegovina,46,76
+GEO,Georgia,46,83
+ALB,Albania,44,78
+PNG,Papua New Guinea,44,44
+LSO,Lesotho,44,68
+GAB,Gabon,44,73
+PRY,Paraguay,44,52
+KHM,Cambodia,44,58
+LKA,Sri Lanka,43,46
+TKM,Turkmenistan,43,43
+CHN,China,42,53
+MNG,Mongolia,42,78
+UKR,Ukraine,41,69
+TTO,Trinidad and Tobago,41,55
+KGZ,Kyrgyzstan,40,69
+BFA,Burkina Faso,40,73
+TUV,Tuvalu,40,40
+DOM,Dominican Republic,40,47
+ATG,Antigua and Barbuda,40,63
+GRD,Grenada,40,61
+IDN,Indonesia,39,60
+BLR,Belarus,38,62
+MDG,Madagascar,38,65
+LCA,Saint Lucia,37,58
+TUR,Turkey,37,53
+MDA,Moldova,37,67
+MKD,North Macedonia,36,58
+RUS,Russia,36,55
+HTI,Haiti,36,62
+KAZ,Kazakhstan,35,58
+BEN,Benin,35,55
+SYR,Syria,35,33
+PAK,Pakistan,34,47
+BRB,Barbados,34,34
+LBN,Lebanon,34,50
+RWA,Rwanda,34,62
+ARM,Armenia,34,63
+COG,Republic of the Congo,34,57
+MLI,Mali,34,60
+CIV,Côte d’Ivoire,33,53
+SWZ,Eswatini,33,44
+DJI,Djibouti,33,33
+SGP,Singapore,33,32
+JAM,Jamaica,32,49
+KNA,Saint Kitts and Nevis,32,50
+SLB,Solomon Islands,31,31
+GUY,Guyana,31,39
+NER,Niger,31,56
+MDV,Maldives,31,31
+SLE,Sierra Leone,30,53
+AZE,Azerbaijan,29,54
+ZWE,Zimbabwe,29,50
+DMA,Dominica,27,41
+MAR,Morocco,27,21
+KWT,Kuwait,27,27
+CAF,Central African Republic,26,26
+BDI,Burundi,26,42
+KEN,Kenya,25,38
+VCT,Saint Vincent and the Grenadines,24,41
+LBR,Liberia,24,40
+GHA,Ghana,24,40
+BGD,Bangladesh,23,36
+JOR,Jordan,23,42
+ERI,Eritrea,23,23
+SSD,South Sudan,23,23
+MWI,Malawi,22,39
+PRK,North Korea,22,22
+ZMB,Zambia,22,37
+TGO,Togo,22,33
+COM,Comoros,21,21
+PSE,Palestine,21,38
+CMR,Cameroon,20,31
+TZA,Tanzania,20,26
+GIN,Guinea,19,33
+MMR,Myanmar,18,19
+TUN,Tunisia,18,22
+SEN,Senegal,17,31
+DZA,Algeria,16,6
+IRQ,Iraq,15,6
+UGA,Uganda,15,27
+TCD,Chad,15,27
+ETH,Ethiopia,14,18
+MYS,Malaysia,14,9
+SDN,Sudan,14,12
+OMN,Oman,13,13
+EGY,Egypt,12,14
+NGA,Nigeria,10,13
+GMB,Gambia,9,15
+LBY,Libya,8,8
+IRN,Iran,6,9
+QAT,Qatar,6,6
+ARE,United Arab Emirates,6,6
+SOM,Somalia,5,5
+MRT,Mauritania,4,3
+YEM,Yemen,3,3
+SAU,Saudi Arabia,2,2
+BRN,Brunei,2,2
+AFG,Afghanistan,1,0
+MTQ,Martinique,78,93

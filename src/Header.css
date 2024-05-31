@@ -1,0 +1,45 @@
+.header {
+    background-color: #1b1b1b;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    /* Ensures the header is above other elements */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    /* Include padding and border in the element's total width and height */
+}
+
+.header-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 20px;
+    /* Add some margin to keep it away from the edge */
+}
+
+.header-nav {
+    margin-right: 20px;
+    /* Add some margin to keep it away from the edge */
+}
+
+.header-nav a {
+    color: white;
+    margin-left: 20px;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.header-nav a:hover {
+    text-decoration: underline;
+}
+
+.map-container h3,
+.map-container h4 {
+    text-align: center;
+}

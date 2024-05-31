@@ -1,0 +1,29 @@
+/* src/NavBar.css */
+.navbar {
+    background-color: #343a40;
+    /* Dark background color */
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: #ffffff !important;
+}
+
+.nav-link {
+    color: #dddddd !important;
+    font-weight: bold;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.nav-item {
+    margin-left: 20px;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    color: #ffffff !important;
+}
