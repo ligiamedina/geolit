@@ -12,5 +12,5 @@ De plus, en publiant ces données de manière large et ouverte, nous présentons
 
 Si vous connaissez des livres qui ne figurent pas sur cette liste, veuillez les partager avec nous sur form. Construisons ensemble une base de données capable de combler le fossé qui existe entre la représentation des femmes qui aiment d'autres femmes dans la littérature et la participation de ces publications à la scène littéraire mondiale.
 
-Ce site est le résultat d'une enquête menée dans le cadre d'une initiation de recherche scientifique par l'Université Fédérale du Paraná (UFPR) de 2021. Sous la direction de Prof. Dr. , du Département , la recherche a été menée par l'étudiante A, baccalauréat en études littéraires de langue française. Ce site a été développé par l'ingénieure B, spécialiste en science des données.
+Ce site est le résultat d'une enquête menée dans le cadre d'une initiation de recherche scientifique par l'Université Fédérale du Paraná (UFPR) de 2021. Sous la direction de Prof. Dr. Viviane Pereira, du Département des langues étrangères modernes, la recherche a été menée par l'étudiante Lígia Medina, baccalauréat en études littéraires de langue française. Ce site a été développé par l'ingénieure Rafaela Pinter, spécialiste en science des données.
 
