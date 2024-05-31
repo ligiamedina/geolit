@@ -5,9 +5,10 @@ const About = () => {
     const [content, setContent] = useState('');
 
     useEffect(() => {
-        fetch('/data/about.txt')
+        fetch(`data/about.txt`)
             .then(response => response.text())
-            .then(data => setContent(data));
+            .then(data => setContent(data))
+            .catch(error => console.error('Error fetching about.txt:', error));
     }, []);
 
     return (

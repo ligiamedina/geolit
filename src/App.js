@@ -8,12 +8,12 @@ import './App.css';
 
 const App = () => {
     return (
-        <Router>
+        <Router basename="/geolit">
             <div className="App">
                 <Header />
                 <Routes>
-                    <Route exact path="/geolit" element={<Map />} />
-                    <Route path="/geolit/about" element={<About />} />
+                    <Route exact path="/" element={<Map />} />
+                    <Route path="/about" element={<About />} />
                 </Routes>
                 <Footer />
             </div>
