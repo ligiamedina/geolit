@@ -1,0 +1,200 @@
+index,country,equality,legal,public_opinion
+1,Iceland,90,94,86
+2,Canada,90,100,79
+3,Isle of Man,88,88,
+4,Uruguay,87,100,75
+5,Norway,86,90,81
+6,Andorra,85,97,73
+7,Netherlands,85,96,73
+8,Germany,84,98,70
+9,United Kingdom,84,92,75
+10,Australia,84,94,73
+11,Switzerland,83,98,69
+12,Vanuatu,83,83,
+13,Argentina,82,97,67
+14,Malta,82,98,65
+15,New Zealand,81,95,68
+16,United States of America,81,96,67
+17,San Marino,81,92,71
+18,Sweden,81,86,76
+19,Brazil,81,98,64
+20,Spain,80,90,71
+21,Fiji,80,80,
+22,Liechtenstein,80,91,69
+23,Denmark,79,85,73
+24,Luxembourg,78,94,63
+25,Belize,78,78,
+26,South Africa,78,97,59
+27,France,78,93,63
+28,Chile,77,95,59
+29,Finland,77,91,63
+30,Belgium,77,87,67
+31,Mexico,77,97,57
+32,Cuba,75,78,73
+33,Israel,74,97,51
+34,Austria,73,90,57
+35,Portugal,73,96,50
+36,Ireland,72,85,60
+37,Czech Republic,72,85,59
+38,Suriname,72,72,
+39,Costa Rica,72,92,51
+40,Monaco,71,71,
+41,Vatican City,71,71,
+42,Cape Verde,69,61,77
+43,Samoa,69,69,
+44,Palau,68,68,
+45,Seychelles,68,68,
+46,Slovenia,68,87,48
+47,Nepal,68,83,52
+48,Colombia,68,88,47
+49,Ecuador,67,95,40
+50,Marshall Islands,66,66,
+51,Japan,65,75,56
+52,Italy,65,76,54
+53,Equatorial Guinea,64,64,
+54,India,64,81,47
+55,Angola,63,79,47
+56,Mozambique,62,69,56
+57,Mauritius,62,71,52
+58,Greece,62,86,38
+59,Laos,61,61,
+60,Guinea-Bissau,60,60,
+61,Taiwan,60,73,47
+62,Bolivia,60,82,37
+63,Kosovo,59,59,
+64,Cyprus,59,85,33
+65,Tajikistan,59,59,
+66,Namibia,58,62,55
+67,Nauru,58,58,
+68,Croatia,58,83,33
+69,Nicaragua,58,77,39
+70,Estonia,58,80,36
+71,Federated States of Micronesia,58,58,
+72,Peru,57,77,38
+73,Bhutan,57,57,
+74,Venezuela,57,68,47
+75,Botswana,56,75,37
+76,Bahamas,56,56,
+77,Uzbekistan,55,55,
+78,El Salvador,54,76,33
+79,Slovakia,54,70,38
+80,Philippines,54,54,54
+81,Guatemala,54,76,31
+82,Timor-Leste,53,53,
+83,Bulgaria,52,79,25
+84,Honduras,52,75,29
+85,Vietnam,52,66,38
+86,Hungary,52,64,39
+87,Democratic Republic of the Congo,52,52,
+88,Sao Tome and Principe,51,60,43
+89,Thailand,51,63,38
+90,Lithuania,50,73,26
+91,Montenegro,49,83,16
+92,Latvia,49,71,27
+93,Romania,49,72,25
+94,Poland,48,56,40
+95,Serbia,47,76,19
+96,South Korea,47,58,36
+97,Bahrain,47,52,42
+98,Tonga,47,47,
+99,Panama,46,58,35
+100,Kiribati,46,46,
+101,Bosnia and Herzegovina,46,76,17
+102,Georgia,46,83,9
+103,Albania,44,78,11
+104,Papua New Guinea,44,44,
+105,Lesotho,44,68,19
+106,Gabon,44,73,14
+107,Paraguay,44,52,35
+108,Cambodia,44,58,29
+109,Sri Lanka,43,46,40
+110,Turkmenistan,43,43,
+111,China,42,53,30
+112,Mongolia,42,78,6
+113,Ukraine,41,69,14
+114,Trinidad and Tobago,41,55,27
+115,Kyrgyzstan,40,69,11
+116,Burkina Faso,40,73,6
+117,Tuvalu,40,40,
+118,Dominican Republic,40,47,32
+119,Antigua and Barbuda,40,63,17
+120,Grenada,40,61,18
+121,Indonesia,39,60,19
+122,Belarus,38,62,14
+123,Madagascar,38,65,11
+124,Saint Lucia,37,58,17
+125,Turkey,37,53,21
+126,Moldova,37,67,7
+127,North Macedonia,36,58,15
+128,Russia,36,55,17
+129,Haiti,36,62,10
+130,Kazakhstan,35,58,13
+131,Benin,35,55,14
+132,Syria,35,33,36
+133,Pakistan,34,47,22
+134,Barbados,34,34,
+135,Lebanon,34,50,18
+136,Rwanda,34,62,6
+137,Armenia,34,63,5
+138,Republic of the Congo,34,57,11
+139,Mali,34,60,7
+140,Côte d’Ivoire,33,53,13
+141,Eswatini,33,44,22
+142,Djibouti,33,33,
+143,Singapore,33,32,34
+144,Jamaica,32,49,16
+145,Saint Kitts and Nevis,32,50,15
+146,Solomon Islands,31,31,
+147,Guyana,31,39,23
+148,Niger,31,56,6
+149,Maldives,31,31,
+150,Sierra Leone,30,53,7
+151,Azerbaijan,29,54,4
+152,Zimbabwe,29,50,8
+153,Dominica,27,41,14
+154,Morocco,27,21,33
+155,Kuwait,27,27,
+156,Central African Republic,26,26,
+157,Burundi,26,42,10
+158,Kenya,25,38,11
+159,Saint Vincent and the Grenadines,24,41,8
+160,Liberia,24,40,9
+161,Ghana,24,40,7
+162,Bangladesh,23,36,11
+163,Jordan,23,42,4
+164,Eritrea,23,23,
+165,South Sudan,23,23,
+166,Malawi,22,39,5
+167,North Korea,22,22,
+168,Zambia,22,37,7
+169,Togo,22,33,10
+170,Comoros,21,21,
+171,Palestine,21,38,5
+172,Cameroon,20,31,9
+173,Tanzania,20,26,13
+174,Guinea,19,33,6
+175,Myanmar,18,19,17
+176,Tunisia,18,22,14
+177,Senegal,17,31,3
+178,Algeria,16,6,26
+179,Iraq,15,6,24
+180,Uganda,15,27,3
+181,Chad,15,27,3
+182,Ethiopia,14,18,10
+183,Malaysia,14,9,19
+184,Sudan,14,12,15
+185,Oman,13,13,
+186,Egypt,12,14,10
+187,Nigeria,10,13,8
+188,Gambia,9,15,3
+189,Libya,8,8,
+190,Iran,6,9,4
+191,Qatar,6,6,
+192,United Arab Emirates,6,6,
+193,Somalia,5,5,
+194,Mauritania,4,3,5
+195,Yemen,3,3,
+196,Saudi Arabia,2,2,
+197,Brunei,2,2,
+198,Afghanistan,1,0,2
+199,Martinique,78,93,63
