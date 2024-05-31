@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/geolit/static/css/main.cde48988.css",
+    "main.js": "/geolit/static/js/main.c881bff2.js",
+    "static/js/453.ed3810f9.chunk.js": "/geolit/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/geolit/index.html",
+    "main.cde48988.css.map": "/geolit/static/css/main.cde48988.css.map",
+    "main.c881bff2.js.map": "/geolit/static/js/main.c881bff2.js.map",
+    "453.ed3810f9.chunk.js.map": "/geolit/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cde48988.css",
+    "static/js/main.c881bff2.js"
+  ]
+}
