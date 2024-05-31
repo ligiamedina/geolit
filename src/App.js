@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import Header from './Header';
 import Map from './Map';
 import About from './About';
@@ -8,7 +8,7 @@ import './App.css';
 
 const App = () => {
     return (
-        <Router basename="/geolit">
+        <Router basename="/">
             <div className="App">
                 <Header />
                 <Routes>
