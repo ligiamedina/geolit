@@ -12,8 +12,8 @@ const App = () => {
             <div className="App">
                 <Header />
                 <Routes>
-                    <Route exact path="/" element={<Map />} />
-                    <Route path="/about" element={<About />} />
+                    <Route exact path="/geolit" element={<Map />} />
+                    <Route path="/geolit/about" element={<About />} />
                 </Routes>
                 <Footer />
             </div>
